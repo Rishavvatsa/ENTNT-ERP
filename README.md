@@ -61,7 +61,7 @@ Orders Management - Facilitates viewing and handling orders
 Include detailed instructions on how to navigate through your application and utilize its features. Provide screenshots or gifs if necessary.
 
 ## Demo
-[https://entnt-erp-system.vercel.app/]
+https://entnt-erp-system.vercel.app/
 ## Technologies Used
 List the technologies, frameworks, and libraries used in your front-end application.
 
