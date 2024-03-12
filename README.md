@@ -1,4 +1,13 @@
 # ENTNT_ERP-SYSTEM
+## Installation
+Provide step-by-step instructions on how to install your front-end application. Include any prerequisites, such as software or dependencies that need to be installed.
+
+\`\`\`
+#### Clone the repository: git clone  [https://github.com/Rishavvatsa/ENTNT_ERP.git](https://github.com/Rishavvatsa/ENTNT-ERP.git) 
+#### Install dependencies: npm install
+#### Start the development server: npm start
+\`\`\`
+
 
 This project is an ERP (Enterprise Resource Planning) system, designed to manage basic business operations efficiently. The system consists of the following pages:
 
@@ -33,17 +42,9 @@ Orders Management - Facilitates viewing and handling orders
 
 
 
-## Installation
-Provide step-by-step instructions on how to install your front-end application. Include any prerequisites, such as software or dependencies that need to be installed.
 
-\`\`\`
-#### Clone the repository: git clone  [https://github.com/Rishavvatsa/ENTNT_ERP.git](https://github.com/Rishavvatsa/ENTNT-ERP.git) 
-#### Install dependencies: npm install
-#### Start the development server: npm start
-\`\`\`
 
-## Usage
-Explain how to use your front-end application. Provide details on how to run it locally and any necessary configurations.
+
 
 
 
