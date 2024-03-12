@@ -7,7 +7,23 @@ Provide step-by-step instructions on how to install your front-end application. 
 #### Install dependencies: npm install
 #### Start the development server: npm start
 \`\`\`
+## Installation
 
+**1) Startup**
+
+Clone project repository to your local directory:
+
+```bash
+git clone https://github.com/Rishavvatsa/ENTNT-ERP.git
+```
+
+```bash
+
+npm install
+```
+```bash
+npm start
+```
 
 This project is an ERP (Enterprise Resource Planning) system, designed to manage basic business operations efficiently. The system consists of the following pages:
 
