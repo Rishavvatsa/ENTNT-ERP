@@ -69,6 +69,7 @@ List the technologies, frameworks, and libraries used in your front-end applicat
 - Tailwind CSS
 - React Router
 - React-icons
+- React-Calendar
 - etc.
 
 
