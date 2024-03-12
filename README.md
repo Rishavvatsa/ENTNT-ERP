@@ -36,9 +36,9 @@ Orders Management - Facilitates viewing and handling orders
 - Shows a list of orders, including details like order ID, customer name, order date, and status, using mock data.
 - Ability to view order details, update the order status, and delete the orders.
 ## Desktop-View
-![image](https://github.com/Rishavvatsa/ENTNT_ERP/assets/95865069/42cb1a41-af96-4e62-9542-7f63cd7e53ac)
-![image](https://github.com/Rishavvatsa/ENTNT_ERP/assets/95865069/466426b1-0eeb-4afa-93b1-2006bff4632e)
-![image](https://github.com/Rishavvatsa/ENTNT_ERP/assets/95865069/a7e651bb-ee9a-4b3a-bdb4-cfdfab27a1e8)
+![image](https://github.com/Rishavvatsa/ENTNT_ERP/assets/95865069/42cb1a41-af96-4e62-9542-7f63cd7e53ac)(screenshot.jpg)
+![image](https://github.com/Rishavvatsa/ENTNT_ERP/assets/95865069/466426b1-0eeb-4afa-93b1-2006bff4632e)(screenshot.jpg)
+![image](https://github.com/Rishavvatsa/ENTNT_ERP/assets/95865069/a7e651bb-ee9a-4b3a-bdb4-cfdfab27a1e8)(screenshot.jpg)
 
 ## Mobile View-
 ![image](https://github.com/Rishavvatsa/ENTNT_ERP/assets/95865069/f7374263-4ba4-42dc-9b67-81333cb4ed9f)
