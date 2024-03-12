@@ -1,12 +1,5 @@
 # ENTNT_ERP-SYSTEM
-## Installation
-Provide step-by-step instructions on how to install your front-end application. Include any prerequisites, such as software or dependencies that need to be installed.
 
-\`\`\`
-#### Clone the repository: git clone  [https://github.com/Rishavvatsa/ENTNT_ERP.git](https://github.com/Rishavvatsa/ENTNT-ERP.git) 
-#### Install dependencies: npm install
-#### Start the development server: npm start
-\`\`\`
 ## Installation
 
 **1) Startup**
