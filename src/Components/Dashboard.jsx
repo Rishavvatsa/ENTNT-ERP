@@ -12,7 +12,7 @@ const Dashboard = ({ totalProducts, totalOrders }) => {
     <div className="flex flex-col lg:flex-row">
       <div className="bg-neutral-900 text-white w-full lg:w-64 flex-none py-10 px-4 gap-8">
         <div className="flex items-center gap-3">
-          <img src={logo} className="w-12" alt="ERP logo" />
+          <img src={logo} className="w-10" alt="ERP logo" />
           <h1 className="text-3xl font-semibold  text-white">MY ERP</h1>
         </div>
         <hr />
